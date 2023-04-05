@@ -1,0 +1,1 @@
+alert("the script link works")
